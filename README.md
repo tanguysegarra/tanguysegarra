@@ -7,7 +7,7 @@ I'm a Developer 💻 and Cinephilia 🎥!
 </br>
 I love creating small applications to make my everyday life easier and automated!
 </h2> 
-</br>
+
 
 ## 🤝 Connect with me on 
 
@@ -18,7 +18,6 @@ I love creating small applications to make my everyday life easier and automated
 <a href="https://app.element.io"><img align="left" src="https://raw.githubusercontent.com/tanguysegarra/tanguysegarra/main/images/element.png" alt="Tanguy Segarra | Matrix" width="21px"/></a>
 
 <a href="https://twitter.com/gnathl_"><img align="left" src="https://raw.githubusercontent.com/tanguysegarra/tanguysegarra/main/images/twitter.png" alt="Tanguy Segarra | Twitter" width="21px"/></a>
-</br>
 </br>
 
 
