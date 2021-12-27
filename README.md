@@ -26,13 +26,11 @@ I love creating small applications to make my everyday life easier and automated
 
 - 🐶 jinko programming language
 
-</br>
 
 ## 🌱 and I'm also learning
 
 - 🦀 Rust programming language
 
-</br>
 
 ## 💼 Technical Skills
 
