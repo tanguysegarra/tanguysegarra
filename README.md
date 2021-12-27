@@ -1,5 +1,39 @@
 ### Hi there 👋
 
+<p align="center">
+  <a href="https://github.com/tanguysegarra" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/75753187/123350185-74ce0900-d528-11eb-848d-d92955dbb944.png" alt="banner"></a>
+</p>
+
+<h3 align="center">
+Hi there, I'm Tanguy 👋
+</h3>
+
+<h2 align="center">
+I'm a Developer 💻 and Cinephilia 🎥!
+</br>
+I love creating small applications to make my everyday life easier and automated!
+</h2> 
+
+### 🤝 Connect with me on 
+
+<a href="https://www.linkedin.com/in/tanguysegarra/"><img align="left" src="https://raw.githubusercontent.com/tanguysegarra/tanguysegarra/main/images/linkedin.png" alt="Tanguy Segarra | LinkedIn" width="21px"/></a>
+<a href="https://dev.to/tanguysegarra"><img align="left" src="https://raw.githubusercontent.com/tanguysegarra/tanguysegarra/main/images/devto.png" alt="Tanguy Segarra | DEV" width="21px"/></a>
+<a href="https://app.element.io"><img align="left" src="https://raw.githubusercontent.com/tanguysegarra/tanguysegarra/main/images/matrix.png" alt="Tanguy Segarra | Matrix" width="21px"/></a>
+<a href="https://twitter.com/gnathl_"><img align="left" src="https://raw.githubusercontent.com/tanguysegarra/tanguysegarra/main/images/twitter.png" alt="Tanguy Segarra | Twitter" width="21px"/></a>
+</br>
+
+## ⛑️ Nowadays I'm working on
+
+- 🐶 jinko programming language
+
+## 🌱 and I'm also learning
+
+- 🦀 Rust programming language
+
+## 💼 Technical Skills
+
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=003B57)
+
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=tanguysegarra)](https://github.com/tanguysegarra)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanguysegarra&layout=compact)](https://github.com/tanguysegarra)
