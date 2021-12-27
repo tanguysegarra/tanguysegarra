@@ -7,8 +7,12 @@ I'm a Developer 💻 and Cinephilia 🎥!
 </br>
 I love creating small applications to make my everyday life easier and automated!
 </h2> 
+</br>
+</br>
+</br>
 
-### 🤝 Connect with me on 
+
+## 🤝 Connect with me on 
 
 <a href="https://www.linkedin.com/in/tanguysegarra/"><img align="left" src="https://raw.githubusercontent.com/tanguysegarra/tanguysegarra/main/images/linkedin.png" alt="Tanguy Segarra | LinkedIn" width="21px"/></a>
 
@@ -18,14 +22,23 @@ I love creating small applications to make my everyday life easier and automated
 
 <a href="https://twitter.com/gnathl_"><img align="left" src="https://raw.githubusercontent.com/tanguysegarra/tanguysegarra/main/images/twitter.png" alt="Tanguy Segarra | Twitter" width="21px"/></a>
 </br>
+</br>
+</br>
+
 
 ## ⛑️ Nowadays I'm working on
 
 - 🐶 jinko programming language
 
+</br>
+</br>
+
 ## 🌱 and I'm also learning
 
 - 🦀 Rust programming language
+
+</br>
+</br>
 
 ## 💼 Technical Skills
 
@@ -35,6 +48,8 @@ I love creating small applications to make my everyday life easier and automated
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
+</br>
+</br>
 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=tanguysegarra)](https://github.com/tanguysegarra)
 
