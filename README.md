@@ -15,7 +15,7 @@ I love creating small applications to make my everyday life easier and automated
 <a href="https://www.linkedin.com/in/tanguysegarra/"><img align="left" src="https://raw.githubusercontent.com/tanguysegarra/tanguysegarra/main/images/linkedin.png" alt="Tanguy Segarra | LinkedIn" width="21px"/></a>
 </br>
 
-<a href="https://dev.to/tanguysegarra"><img align="left" src="https://raw.githubusercontent.com/tanguysegarra/tanguysegarra/main/images/devto.png" alt="Tanguy Segarra | DEV" width="21px"/></a>
+<a href="https://dev.to/tanguysegarra"><img align="left" src="https://raw.githubusercontent.com/tanguysegarra/tanguysegarra/main/images/dev.png" alt="Tanguy Segarra | DEV" width="21px"/></a>
 <a href="https://app.element.io"><img align="left" src="https://raw.githubusercontent.com/tanguysegarra/tanguysegarra/main/images/matrix.png" alt="Tanguy Segarra | Matrix" width="21px"/></a>
 </br>
 
