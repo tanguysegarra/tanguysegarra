@@ -19,14 +19,22 @@ I love creating small applications to make my everyday life easier and automated
 
 <a href="https://twitter.com/gnathl_"><img align="left" src="https://raw.githubusercontent.com/tanguysegarra/tanguysegarra/main/images/twitter.png" alt="Tanguy Segarra | Twitter" width="21px"/></a>
 </br>
+</br>
+
 
 ## ⛑️ Nowadays I'm working on
 
 - 🐶 jinko programming language
 
+</br>
+
+
 ## 🌱 and I'm also learning
 
 - 🦀 Rust programming language
+
+</br>
+
 
 ## 💼 Technical Skills
 
