@@ -25,10 +25,11 @@ I love creating small applications to make my everyday life easier and automated
 
 - 🐶 jinko programming language
 
-
-## 🌱 and I'm also learning
+## 🌱 and I also keep learning
 
 - 🦀 Rust programming language
+- ☸️ Kubernetes security
+- 🐳 Docker containerization
 
 
 ## 💼 Technical Skills
