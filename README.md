@@ -22,5 +22,4 @@
 
 * [ ] Define a very small language and write its compiler (see you in 2024 little checkbox...)
 * [ ] Keep practicing my Rust before I get rusty (I know you at least smiled :))
-* [ ] Solve 150 LeetCode exercises (because why not?)
-* [ ] Practice reverse engineering because it looks awesome
+* [ ] Solve 75 LeetCode exercises to get back in algorithms and data structures!
